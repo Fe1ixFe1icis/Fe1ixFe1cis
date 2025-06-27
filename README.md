@@ -1,3 +1,13 @@
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&weight=900&pause=1000&center=true&vCenter=true&random=true&width=435&lines=%E2%80%9C%E5%AD%B8%E6%9C%80%E4%B8%8A%E4%B9%98%EF%BC%8C%E4%B8%8D%E8%90%BD%E9%82%AA%E8%A6%8B%E2%80%9D;%E2%80%9C%E7%88%B2%E4%BA%BA%E8%A6%AA%E5%92%8C%EF%BC%8C%E8%87%AA%E6%88%90%E4%B8%80%E6%B4%BE%E2%80%9D)](https://git.io/typing-svg)
 
-# Fe1ixFe1cis
+# Hi,there is **Beichuan Tan**👋
+- From China.🇨🇳
+- Majoring in **Data Science**
+- Graduate as **Artificial Intelligence** (*Vocational College*)
+- Contact me with [email](FelixFelicisTan@outlook.com)
+- A DIVERSE PRODUCERS in Debate | Media Art | etc.
+
+
+# Recent Contributions
+![Personal 3D Metrics](./profile-3d-contrib/profile-gitblock.svg)
+
