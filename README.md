@@ -2,11 +2,11 @@
 
 
 
-# Hi,there is **Beichuan Tan**👋
+# Hi,there is **Beichuan-Tan**👋
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=Fe1ixFe1icis&count_private=true&show_icons=true" alt="Fe1ixFe1icis" />
 
 - From China.🇨🇳
-- Majoring in **Data Science**
+- Majoring in **Data Science** (*Undergraduate*)
 - Graduate as **Artificial Intelligence** (*Vocational College*)
 - Contact me with [email](FelixFelicisTan@outlook.com)
 - A DIVERSE PRODUCERS in Debate | Media Art | etc.
