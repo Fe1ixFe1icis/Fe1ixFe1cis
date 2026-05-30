@@ -31,6 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
+Tencent-2026 TAACxKDD 2026 | 2026腾讯广告算法大赛
 Tencent-2025 OpenSourceTalent | 2025腾讯犀牛鸟开源人才培养计划
 Tencent-2025 algo | 2025腾讯广告算法大赛
 ```
